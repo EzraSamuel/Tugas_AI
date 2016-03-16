@@ -1,0 +1,39 @@
+#Ezra Samuel Siahaan
+#131114307
+#TP-B Pagi
+1.	Apakah anda setuju atau tidak dengan pendapat turing ?
+Ya saya setuju, karena mesin bisa memutuskan sebuah keputusan. Walaupun mesin mendapatkannya dari program program yang sudah diset pada mesin tersebut yang membuat mesin bisa menentukan pilihan A atau B, ya atau tidak, tetapi itu sudah berarti dia bisa berpikir walaupun tentunya mesin tersebut bisa dibatasin sesuai program atau instruksi yang sudah ada pada  mesin tersebut. 
+
+2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+Menurut saya,sampai saat ini tidak akan ada mesin yang bisa melewati tes turing terutama pada syarat machine laerning. Menurutku mesin mempunyai batasan dalam menentukan pilihan ataupun menghadapi situasi tertentu karena dibatasi oleh program yang ada pada mesin tersebut. Ketika mesin tersebut berada pada situasi yang bertentangan atau baru dan program pada mesin tersebut tidak ada yang cocok pada situasi tersebut, mesin tidak akan bisa menghadapi situasi tersebut. Dengan begitu, mesin tidak bisa beradaptasi dengan pola baru kecuali pola tersebut masih cocok dengan program yang ada pada mesin tersebut,
+
+3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+A.	Memori  yang terbatas mempengaruhi jumlah program yang bisa ditanam pada mesin (Teorema Godel)
+B.	Peralatan yang belum bisa memenuhi kebutuhan untuk membuat mesin seperti itu
+C.	Logika matematika yang menjelaskan kekuatan komputer yang terbatas.
+
+
+
+
+Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! 
+
+a.	Pengolahan Bahasa Alami  adalah sebuah cabang ilmu komputer yang mempelajari interaksi komputer dengan bahasa manusia atau bahasa alami. pelajaran pengolahan bahasa alami mencakup  tuturan (speech segmentation),  teks (text segmentation), penandaan kelas kata(part-of-speech tagging), dan (word sense disambiguation).
+Contoh : aplikasi pembuka keamanan handphone dengan suara manusia
+
+b.	Knowledge representation adalah sebuah cara untuk membuat pengetahuan lebih terstruktur. KR adalah daerah penelitian kecerdasan buatan yang bertujuan untuk mewakili pengetahuan dalam simbol-simbol.  Ada beberapa tekniknya, antara lain :
+i.	Object-atribut-value
+ii.	Rules
+iii.	Semantic network
+iv.	Frame
+v.	Predicat logic
+vi.	Fuzzi representasion
+Contoh : robot peniru gaya
+
+c.	Automated Reasoning adalah bidang ilmu komputer dan logika matematika untuk memahami berbagai aspek penalaran
+
+d.	Machine Learning adalah sebuah cabang dari kecerdasan buatan, intinya adalah mesin belajar dari representasi generalisasi. Mesin bisa menghadapi pola baru, situasi baru, dan bisa beradaptasi atas itu
+
+e.	Computer Vision adalah bidang yang mencakup metode untuk memperoleh, mengolah, menganalisa dan pemahaman gambar. Data dari dunia nyata menghasilkan informasi numerik seperti bentuk keputusan
+
+f.	Robotika berhubungan dengan desain, konstruksi, operasi dan aplikasi robot. Ilmu yang mempelajari membuat bentuk fisik dan isi program pada robot tersebut.
+
